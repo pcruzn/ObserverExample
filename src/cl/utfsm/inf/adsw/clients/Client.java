@@ -1,3 +1,6 @@
+/**
+ * author: Pablo Cruz Navea
+ */
 package cl.utfsm.inf.adsw.clients;
 
 import java.util.Random;
